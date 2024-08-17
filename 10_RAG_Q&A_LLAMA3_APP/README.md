@@ -76,6 +76,8 @@ The choice of embedding model and the use of cloud-based APIs help in maintainin
 
 ## Future Enhancements
 
+- Adding chat history along with different sessions.
+- Taking Groq api directly from the front end.
 - Expanding the application to handle different document types.
 - Integrating additional language models for comparison.
 
