@@ -1,4 +1,4 @@
-# LangChain Learning Practicals
+# LangChain Self Learning Practicals & Projects 
 
 This repository contains a series of practical exercises I completed to deepen my understanding of various concepts related to data ingestion, transformation, embedding, and vector stores. These exercises are not part of a project but are instead meant for learning purposes only.
 
