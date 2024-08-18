@@ -31,7 +31,7 @@ prompt = ChatPromptTemplate.from_template(
     """
     You are a GitHub README generator. Based on the following README contents 
     from various projects and learning activities "I have done by myself", create a 
-    comprehensive and detailed (at least 2000 words) super README for the entire 
+    comprehensive, detailed (at least 2000 words) and attractive super README for the entire 
     repository. Summarize the contents of each folder, highlight the key learnings or 
     accomplishments, and provide an overview of the repository. And do mention that I
     have explored all these yself. The sections should be:
