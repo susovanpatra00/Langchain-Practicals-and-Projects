@@ -24,7 +24,7 @@ documents = loader.load()
 contents = [doc.page_content for doc in documents[:-1]]   # Skipping the last document as it was previous README.md for the repository
 
 
-llm = ChatGroq(model="Llama3-70b-8192", api_key=GROQ_API_KEY)   # Using Llama3-70b from Groq
+llm = ChatGroq(model="llama-3.1-70b-versatile", api_key=GROQ_API_KEY)   # Using Llama3-70b from Groq
 
 # Prompt For README.md Generator
 prompt = ChatPromptTemplate.from_template(
