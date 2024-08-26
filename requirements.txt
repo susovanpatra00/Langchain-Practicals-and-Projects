@@ -27,3 +27,6 @@ pydantic==1.10.13
 arxiv
 wikipedia
 duckduckgo-search
+cassio
+datasets
+tiktoken
