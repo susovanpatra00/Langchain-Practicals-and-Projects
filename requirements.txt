@@ -31,3 +31,5 @@ cassio
 datasets
 tiktoken
 neo4j==5.14
+pinecone
+pinecone-text
