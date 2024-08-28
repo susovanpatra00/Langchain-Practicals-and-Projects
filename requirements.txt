@@ -30,3 +30,4 @@ duckduckgo-search
 cassio
 datasets
 tiktoken
+neo4j==5.14

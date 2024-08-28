@@ -163,3 +163,4 @@ cython_debug/
 
 venv/
 .env
+Neo4j_Details.txt
